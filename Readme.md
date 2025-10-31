@@ -1,1 +1,1 @@
-The repository includes tableau data visualizations and variety of graphics I created while learning and practicing using Tableau. These examples aim to improve my ability to create dashbards for data analysis and visualizations in Tableau.
+The repository includes tableau data visualizations and variety of graphics I created while learning and practicing using Tableau. These examples aim to improve my ability to create dashboards for data analysis and visualizations in Tableau.
